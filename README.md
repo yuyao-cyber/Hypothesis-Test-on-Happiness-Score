@@ -11,4 +11,4 @@ Datasets interested in:
 
 [data_combination.ipynb](https://github.com/yuyao-cyber/Hypothesis-Test-on-Happiness-Score/blob/main/data_combination.ipynb) merges the excels.
 
-[prediction_on_hs.ipynb](https://github.com/yuyao-cyber/Hypothesis-Test-on-Happiness-Score/blob/main/prediction_on_hs.ipynb) made a hypothesis on factors that affect happiness score, and fitted a model with multi-linear regression.
+[prediction_on_hs.ipynb](https://github.com/yuyao-cyber/Hypothesis-Test-on-Happiness-Score/blob/main/prediction_on_hs.ipynb) makes a hypothesis on factors that affect happiness score, and fits a model with multi-linear regression.
