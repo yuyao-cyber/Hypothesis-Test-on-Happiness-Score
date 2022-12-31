@@ -10,4 +10,5 @@ Datasets interested in:
 -GDP (GDP.MKTP.CD_DS2_en_excel_v2_4701247.xls)
 
 [data_combination.ipynb](https://github.com/yuyao-cyber/Hypothesis-Test-on-Happiness-Score/blob/main/data_combination.ipynb) merges the excels.
+
 [prediction_on_hs.ipynb](https://github.com/yuyao-cyber/Hypothesis-Test-on-Happiness-Score/blob/main/prediction_on_hs.ipynb) made a hypothesis on factors that affect happiness score, and fitted a model with multi-linear regression.
